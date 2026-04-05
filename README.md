@@ -1,2 +1,8 @@
 # Terminal-Login-v1.0
-Sample Login  Project
+Date: 04/05/2026
+
+Sample Login Project 
+My Beginner Project
+
+
+
